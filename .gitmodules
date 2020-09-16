@@ -1,0 +1,6 @@
+[submodule "UI"]
+	path = UI
+	url = https://github.ccs.neu.edu/achauhan06/DBMS-UI.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.ccs.neu.edu/pdharme/Tuned.git
